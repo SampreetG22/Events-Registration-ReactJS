@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+.eventListItem {
+  list-style-type: none;
+  width: max-content;
+  margin: 22px;
+  margin-left: 0px;
+}
+.imageAlter {
+  width: 200px;
+  height: 100%;
+}
+.nameCSS {
+  font-size: 18px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.locationCSS {
+  color: #f8fafc;
+  font-size: 12px;
+  margin: 0px;
+}
+.BtnClass {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px;
+}
+.normal {
+  border: none;
+}
+.highlighted {
+  border: 1px solid yellow;
+  border-radius: 7px;
+}
